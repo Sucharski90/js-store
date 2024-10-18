@@ -1,0 +1,136 @@
+
+{
+    "@context": "http://schema.org",
+    "products": [
+      {
+        "@type": "Product",
+        "name": "Red Folds of Honor/The Dan Bongino Show Hoodie",
+        "pid": "637e8eb900f96e0cdcc568ea",
+        "slug": "/products/red-dan-bongino-show-hoodie",
+        "sku": "FOH-0006",
+        "price": "50.00",
+        "available": [
+          {
+            "sold_out": "TRUE",
+            "S": "FALSE",
+            "M": "FALSE",
+            "L": "FALSE",
+            "XL": "FALSE",
+            "TwoX": "FALSE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "White Folds of Honor/The Dan Bongino Show T-shirt",
+        "pid": "637319dff06f5b0e0861caaa",
+        "slug": "/products/white-folds-of-honor-t-shirt",
+        "sku": "FOH-0002",
+        "price": "35.00",
+        "available": [
+          {
+            "sold_out": "FALSE",
+            "S": "TRUE",
+            "M": "FALSE",
+            "L": "FALSE",
+            "XL": "FALSE",
+            "TwoX": "TRUE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "Red Folds of Honor/The Dan Bongino Show T-shirt",
+        "pid": "637318d26119500d19e97b16",
+        "slug": "/products/red-folds-of-honor-t-shirt",
+        "sku": "FOH-0003",
+        "price": "35.00",
+        "available": [
+          {
+            "sold_out": "FALSE",
+            "S": "TRUE",
+            "M": "FALSE",
+            "L": "FALSE",
+            "XL": "FALSE",
+            "TwoX": "FALSE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "Blue Folds of Honor/The Dan Bongino Show T-shirt",
+        "pid": "637317cff104d90de82f4a59",
+        "slug": "/products/blue-folds-of-honor-t-shirt",
+        "sku": "FOH-0004",
+        "price": "35.00",
+        "available": [
+          {
+            "sold_out": "FALSE",
+            "S": "TRUE",
+            "M": "TRUE",
+            "L": "TRUE",
+            "XL": "FALSE",
+            "TwoX": "FALSE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "Blue Folds of Honor/The Dan Bongino Show Hoodie",
+        "pid": "6373117b2b19213f982c07c0",
+        "slug": "/products/blue-dan-bongino-show-hoodie",
+        "sku": "FOH-0007",
+        "price": "50.00",
+        "available": [
+          {
+            "sold_out": "TRUE",
+            "S": "FALSE",
+            "M": "FALSE",
+            "L": "FALSE",
+            "XL": "FALSE",
+            "TwoX": "FALSE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "White Folds of Honor/The Dan Bongino Show Hoodie",
+        "pid": "6372a9ba9fee0c012f49b89b",
+        "slug": "/products/white-dan-bongino-show-hoodie",
+        "sku": "FOH-0005",
+        "price": "50.00",
+        "available": [
+          {
+            "sold_out": "TRUE",
+            "S": "FALSE",
+            "M": "FALSE",
+            "L": "FALSE",
+            "XL": "FALSE",
+            "TwoX": "FALSE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      },
+      {
+        "@type": "END",
+        "name": "End JSON",
+        "description": "This just closes off the json file.",
+        "available": [
+          {
+            "sold_out": "TRUE",
+            "S": "FALSE",
+            "M": "FALSE",
+            "L": "FALSE",
+            "XL": "FALSE",
+            "TwoX": "FALSE",
+            "ThreeX": "FALSE"
+          }
+        ]
+      }
+    ]
+  }
